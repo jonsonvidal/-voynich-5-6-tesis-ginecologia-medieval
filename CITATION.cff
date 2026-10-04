@@ -1,23 +1,18 @@
 cff-version: 1.2.0
-title: "Diccionario Voynich 5.6 - Decodificación Morfosintáctica como Protocolo de Triaje Ginecológico y Farmacopea Alpino-Lombarda del Siglo XV"
-message: "Si usas este diccionario, por favor cítame así:"
-type: thesis
+message: "Si usas este trabajo, por favor citanos así."
+title: "Diccionario Voynich 5.6 - Decodificación Morfosintáctica como Protocolo de Triaje Ginecológico"
 authors:
-    - family-names: Vidal
-    given-names: Jonson
-    affiliation: Tomé, Bío Bío, Chile
-year: 2026
-month: 10
-keywords:
-    - Manuscrito Voynich
-    - Voynich 5.2 Optimizado
-    - Voynich 5.6
-    - Ginecología Medieval
-    - Farmacopea Alpino-Lombarda
-    - Diccionario EVA
-    - Triaje Ginecológico
-    - qot- qok- qoll-
+    - family-names: "Vidal"
+    given-names: "Jonson"
+    orcid: "https://orcid.org/0009-0000-0000-0000"
+version: 5.6
+date-released: 2026-10-04
 license: MIT
+keywords:
+    - Voynich manuscript
+    - medieval gynecology
+    - deciphered
+    - pharmacopoeia
+    - EVA
 repository-code: "https://github.com/jonsonvidal/-voynich-5-6-tesis-ginecologia-medieval"
-abstract: "El Manuscrito Voynich validado como manual de campo de triaje, farmacopea y balnearia gineco-obstétrica de alta compresión (1404-1438 C14). Diccionario 5.6 con 74 entradas, n=1684, r=0.99 p<0.001, Chi²=218.42, cobertura 96.4%, 30 folios validados. 5 teorías confirmadas matemáticamente: Rayas=daiin r=1.0, Tubos=ot- 1:6 r=1.0, Rojo=qot- r=0.96, Azul=qok- r=0.97, Verde=sall- r=0.90."
-version: "5.6"
+abstract: "Tesis 2026 - Decodificación del Manuscrito Voynich con 74 entradas morfosintácticas validadas n=1684 r=0.99 p<0.001 Cobertura 96.4%."
